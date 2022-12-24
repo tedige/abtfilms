@@ -1,0 +1,46 @@
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_logo {
+    /* background-color: orange; */
+    width: 91.8%;
+}
+
+.header_nav {
+    /* background-color: peru; */
+    width: 91.8%;
+    
+
+}
+
+.header_pic {
+    display: flex;
+    /* background-color: red; */
+    margin-left: 10px;
+    align-items: center;
+    width: 99.2%;
+    height: auto;
+    flex-wrap: wrap;
+
+}
+
+.header_nav nav ul {
+    display: flex;
+    list-style: none;
+    width: 91.8%;
+}
+
+.header_nav nav ul li {
+    margin-right: 50px;
+    width: 91.8%;
+}
+
+.header_opr {
+    /* background-color: aqua; */
+    width: 91.8% ;
+}
