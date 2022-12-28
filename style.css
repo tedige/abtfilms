@@ -1,7 +1,7 @@
 header {
     display: flex;
     flex-direction: column;
-    background-color: yellow;
+    background-color: pink;
     justify-content: space-between;
     align-items: center;
 }
